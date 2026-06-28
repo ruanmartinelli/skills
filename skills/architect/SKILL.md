@@ -6,7 +6,7 @@ disable-model-invocation: true
 
 # Architect
 
-Plan before coding. Produce a short design sketch, get it right, then implement against it. Don't jump to code for non-trivial work — it locks in the wrong shape.
+Plan before coding. Produce a short design sketch, get it right, then implement against it. Don't jump to code for non-trivial work; it locks in the wrong shape.
 
 ## Output
 
@@ -68,6 +68,6 @@ List every new/changed function with its signature and a one-line outline of wha
 ## Process
 
 1. **Ground.** Read the modules the change touches. Note constraints.
-2. **Sketch.** Write the plan above. If the shape feels wrong, redo it before coding — cheap here, expensive later.
+2. **Sketch.** Write the plan above. If the shape feels wrong, redo it before coding; cheap here, expensive later.
 3. **Implement.** Fill in bodies against the plan. If a function needs something the plan didn't anticipate, surface it; don't bolt it on silently.
 4. **Scrap.** If implementation keeps hitting friction of the same shape, the plan is wrong. Throw it out and re-sketch.
