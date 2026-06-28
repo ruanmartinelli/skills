@@ -2,8 +2,6 @@
 
 These are my agent skills. There are many like them, but these are mine.
 
-[![skills.sh](https://skills.sh/b/ruanmartinelli/skills)](https://skills.sh/ruanmartinelli/skills)
-
 ## Install
 
 ```bash
